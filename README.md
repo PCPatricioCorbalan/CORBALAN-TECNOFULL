@@ -17,4 +17,4 @@
 ## Paleta de colores
 E3F6FF, FFEA20, F86F03
 ## Logo
-![Alt text](image-1.png)
+https://th.bing.com/th/id/OIG.POLtRvWCyEbLgjSoK59r?pid=ImgGn
