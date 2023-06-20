@@ -5,9 +5,9 @@
  * Cajones de pollo de distintos tamaños
  * Derivados de pollo congelados, como pueden ser nuggets, medallones de pollo, hamburguesas, albondigas, etc.
  * Distintos tipos de cortes de pollo por mayor y menor
- ## Publico Objetivo
+## Publico Objetivo
  El publico al que esta diriga la empresa es para cualquier persona, casas familiares, PyME tantos nacionales como internacionales.
- ## Tipografia Principal
+## Tipografia Principal
  ### Titulos
  Ubuntu
  ### Subtitulos 
@@ -16,9 +16,5 @@
  Arimo
 ## Paleta de colores
 E3F6FF, FFEA20, F86F03
-
-
-
-
-
-
+## Logo
+https://th.bing.com/th/id/OIG.POLtRvWCyEbLgjSoK59r?pid=ImgGn
