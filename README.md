@@ -9,9 +9,9 @@
  El publico al que esta diriga la empresa es para cualquier persona, casas familiares, PyME y empresas del exterior.
  ## Tipografia Principal
  ### Titulos
- <link rel="preconnect" href="https://fonts.googleapis.com">
- <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
- <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap" rel="stylesheet">
+ <style>
+ @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+ </style>
 
  ### Subtitulos 
  <link rel="preconnect" href="https://fonts.googleapis.com">
