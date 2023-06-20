@@ -9,10 +9,7 @@
  El publico al que esta diriga la empresa es para cualquier persona, casas familiares, PyME y empresas del exterior.
  ## Tipografia Principal
  ### Titulos
- <style>
- @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
- </style>
-
+ font-family: 'Rubik', sans-serif;
  ### Subtitulos 
  <link rel="preconnect" href="https://fonts.googleapis.com">
  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
