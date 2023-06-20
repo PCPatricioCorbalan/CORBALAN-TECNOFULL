@@ -9,18 +9,11 @@
  El publico al que esta diriga la empresa es para cualquier persona, casas familiares, PyME y empresas del exterior.
  ## Tipografia Principal
  ### Titulos
- font-family: 'Rubik', sans-serif;
+ Ubuntu
  ### Subtitulos 
- <link rel="preconnect" href="https://fonts.googleapis.com">
- <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
- <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300&display=swap" rel="stylesheet">
-
+ Space+Grotesk
  ### Texto
- <link rel="preconnect" href="https://fonts.googleapis.com">
- <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
- <link href="https://fonts.googleapis.com/css2?family=Arimo&display=swap" rel="stylesheet"> 
-
-
+ Arimo
 ## Paleta de colores
 E3F6FF, FFEA20, F86F03
 
