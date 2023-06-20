@@ -6,7 +6,7 @@
  * Derivados de pollo congelados, como pueden ser nuggets, medallones de pollo, hamburguesas, albondigas, etc.
  * Distintos tipos de cortes de pollo por mayor y menor
  ## Publico Objetivo
- El publico al que esta diriga la empresa es para cualquier persona, casas familiares, PyME y empresas del exterior.
+ El publico al que esta diriga la empresa es para cualquier persona, casas familiares, PyME tantos nacionales como internacionales.
  ## Tipografia Principal
  ### Titulos
  Ubuntu
