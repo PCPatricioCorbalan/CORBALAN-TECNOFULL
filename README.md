@@ -15,6 +15,6 @@
  ### Texto
  >Arimo
 ## Paleta de colores
-E3F6FF, FFEA20, F86F03
+#E3F6FF, #FFEA20, #F86F03
 ## Logo
 ![Alt text](image.png)
