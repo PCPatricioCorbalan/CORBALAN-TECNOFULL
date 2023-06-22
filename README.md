@@ -19,4 +19,4 @@ https://fonts.google.com/share?selection.family=Open%20Sans:wght@300
 ## Logo
 ![Alt text](<Tecno Full.jpg>)
 ## FIGMA
-https://www.figma.com/file/ZGJA2drPRw736xy7ZYJafx/Untitled?type=design&node-id=3%3A8&mode=design&t=6BLw8nmwPEckZiZh-1
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FZGJA2drPRw736xy7ZYJafx%2FUntitled%3Ftype%3Ddesign%26node-id%3D3%253A8%26mode%3Ddesign%26t%3D6BLw8nmwPEckZiZh-1" allowfullscreen></iframe>
