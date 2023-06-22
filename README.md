@@ -19,4 +19,4 @@ https://fonts.google.com/share?selection.family=Open%20Sans:wght@300
 ## Logo
 ![Alt text](<Tecno Full.jpg>)
 ## FIGMA
-https://www.figma.com/proto/ZGJA2drPRw736xy7ZYJafx/Untitled?page-id=0%3A1&type=design&node-id=7-18&viewport=1134%2C372%2C0.94&scaling=scale-down&mode=design
+https://www.figma.com/file/ZGJA2drPRw736xy7ZYJafx/Untitled?type=design&node-id=0%3A1&mode=design&t=6BLw8nmwPEckZiZh-1
