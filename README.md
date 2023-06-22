@@ -18,3 +18,5 @@ https://fonts.google.com/share?selection.family=Open%20Sans:wght@300
 `#E3F6FF` `#FFEA20` `#F86F03`
 ## Logo
 ![Alt text](<Tecno Full.jpg>)
+## FIGMA
+https://www.figma.com/file/ZGJA2drPRw736xy7ZYJafx/Untitled?type=design&node-id=3%3A8&mode=design&t=6BLw8nmwPEckZiZh-1
