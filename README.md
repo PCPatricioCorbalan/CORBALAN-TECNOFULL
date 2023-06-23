@@ -22,4 +22,4 @@ https://fonts.google.com/share?selection.family=Open%20Sans:wght@300
 ### Mobile
 https://www.figma.com/proto/ZGJA2drPRw736xy7ZYJafx/Untitled?page-id=0%3A1&type=design&node-id=3-9&viewport=1639%2C536%2C1.26&scaling=scale-down&mode=design
 ### Desktop
-
+https://www.figma.com/proto/mUwuvmsJP2Y6XmWvO52f8L/Untitled?page-id=0%3A1&type=design&node-id=1-3&viewport=432%2C365%2C0.6&scaling=min-zoom&mode=design
