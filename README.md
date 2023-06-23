@@ -13,7 +13,6 @@
  https://fonts.google.com/share?selection.family=Open%20Sans:ital,wght@1,500
  ### Texto
 https://fonts.google.com/share?selection.family=Open%20Sans:wght@300
-
 ## Paleta de colores
 `#E3F6FF` `#FFEA20` `#F86F03`
 ## Logo
