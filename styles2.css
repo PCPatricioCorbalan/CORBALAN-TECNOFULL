@@ -1,0 +1,28 @@
+@import url('https://fonts.google.com/share?selection.family=Open%20Sans:ital,wght@1,500');
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@100&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open", sans-serif;
+}
+.primero{
+    background-color: #548687;
+}
+.logo{
+    color: #160303;
+font-family: "Londrina Solid";
+font-size: 48px;
+font-style: normal;
+font-weight: 2000;
+line-height: normal;
+}
+.notebbok{
+    width: 576px;
+height: 374px;
+flex-shrink: 0;
+}
+.footer{
+    background-color: #56445D;
+    list-style: 3;
+}
