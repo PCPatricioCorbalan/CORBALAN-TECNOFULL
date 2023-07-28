@@ -1,29 +1,324 @@
-@import url('https://fonts.google.com/share?selection.family=Open%20Sans:ital,wght@1,500');
-@import url('https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@100&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Abel&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kufam&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Londrina+Solid&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alatsi&family=Inter:wght@300&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&display=swap');
+:root {
+  --iron: #e4e4e6;
+  --smartblue: #548687;
+  --mulledwine: #56445d;
+}
+
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: "Open", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-.primero{
-    background-color: #548687;
+
+body {
+  background-color: var(--iron);
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
 }
-.logo{
-    color: #160303;
-font-family: "Londrina Solid";
-font-size: 48px;
-font-style: normal;
-font-weight: 2000;
-line-height: normal;
+
+
+nav {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
-.footer{
-    background-color: #56445D;
-    list-style: 3;
+
+img {
+  max-width: 100%;
+  object-fit: cover;
 }
-.pc{
-    border-radius: 10px;
-    width: 226px;
-    height: 168px;
-    flex-shrink: 0;
+
+.head {
+  background-color: var(--smartblue);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-family: "Londrina Solid";
+  font-size: 32px;
+  font-weight: 400;
+  justify-content: space-between;
+}
+
+.butons {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  border-radius: 100%;
+  font-size: smaller;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.bodyshop {
+  width: 187px;
+  height: 355px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+article {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: space-between;
+}
+
+.ventas {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.productos {
+  width: 60%;
+  border-radius: 10%;
+}
+
+.detalles {
+  display: flex;
+  justify-content: space-around;
+  font-family: "Inter";
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+footer {
+  background-color: var(--mulledwine);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.redes {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+a {
+  font-family: "Kufam";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+button {
+  border-radius: 28%;
+  background-color: #d9d9d9;
+  border-bottom-width: unset;
+  width: 64px;
+  height: 30px;
+}
+
+.vermas {
+  font: 13px "Inter", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.compra {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-evenly;
+}
+
+.redes2 {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: inherit;
+}
+
+.foot {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.notebook {
+  width: 479px;
+  height: 241px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.precio {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  font-family: "Alatsi";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.detalles2 {
+  display: flex;
+  font-family: "Abel";
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.button {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 25px;
+  width: 123px;
+  height: 40px;
+}
+
+.carrito {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-content: space-around;
+  align-items: center;
+  gap: 15px;
+}
+
+.macbook {
+  gap: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Alatsi";
+  font-size: 24px;
+}
+
+.detail-product-botton {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+}
+
+.detail-boton {
+  border-radius: 15px;
+  width: 123px;
+  height: 40px;
+  text-align: center;
+  font: 21px "Inter", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+li {
+  font-family: "Abel";
+}
+
+.carrito {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.carrito2 {
+  display: flex;
+  flex-direction: row;
+  gap: 28px;
+}
+
+.carrito3 {
+  display: flex;
+  flex-direction: column;
+  font-family: "Inter";
+  font-size: 16px;
+  justify-content: space-around;
+  align-items: baseline;
+}
+.pc-cel{
+  width: 180px;
+  height: 80px;
+  border-radius: 10%;
+}
+.main3 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.total {
+  display: flex;
+  flex-direction: column;
+  width: 467px;
+  height: 36px;
+}
+
+.subtotal {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-family: "SAbhaya Libre";
+font-size: 15px;
+}
+
+.total- {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  font-family: "ABeeZee";
+font-size: 26px;
+}
+
+.boton-compra {
+  display: flex;
+  width: 70px;
+  height: 30px;
+}
+.finalizar {
+  display: flex;
+  width: 460px;
+  height: 200px;
+  justify-content: center;
+  align-items: center;
+  
+}
+.finalizar button {
+  width: 181px;
+  height: 50px;
+  border-radius: inherit;
+  font-family: "ABeeZee";
+font-size: 20px;
 }
