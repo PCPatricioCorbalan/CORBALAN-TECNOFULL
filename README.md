@@ -12,11 +12,8 @@
  ### Titulos
  https://fonts.google.com/share?selection.family=Open%20Sans:ital,wght@1,500
  ### Texto
-<<<<<<< HEAD
 https://fonts.google.com/share?selection.family=Open%20Sans:wght@300
-=======
- https://fonts.google.com/share?selection.family=Open%20Sans:wght@300
->>>>>>> 5321f417edba0e560bf2f99f682db79b2c9820aa
+https://fonts.google.com/share?selection.family=Open%20Sans:wght@300
 ## Paleta de colores
 `#E3F6FF` `#FFEA20` `#F86F03`
 ## Logo
