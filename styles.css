@@ -125,6 +125,7 @@ a {
   font-style: normal;
   font-weight: 400;
   line-height: normal;
+  color: black;
 }
 
 button {
@@ -311,4 +312,44 @@ li {
   border-radius: inherit;
   font-family: "ABeeZee";
   font-size: 20px;
+}
+.login {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--mulledwine);
+  border-radius: 8%;
+  width: 350px;
+  height: 430px;
+  justify-content: space-around;
+  align-items: center;
+}
+.login p {
+  font-family: "Londrina Solid";
+  font-size: 32px;
+}
+.rec-contraseña {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+}
+.register{
+    display: flex;
+    flex-direction: column;
+    background-color: var(--mulledwine);
+    border-radius: 8%;
+    width: 350px;
+    height: 450px;
+    justify-content: space-around;
+    align-items: center;
+}
+.register p{
+  font-family: "Londrina Solid";
+  font-size: 32px;
 }
