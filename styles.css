@@ -41,6 +41,8 @@ img {
 .butons {
   display: flex;
   align-items: center;
+  border-radius: 100%;
+  font-size: smaller;
 }
 
 .logo {
@@ -74,35 +76,20 @@ article button {
   display: flex;
   justify-content: center;
   align-items: center;
+  border-top-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+  width: 87px;
+  border-left-color: transparent;
+  height: 14px;
   font-family: "Inter";
-  font-size: 12px;
+  border-radius: 7px;
 }
 
 .buton-home {
   display: flex;
   gap: 45px;
   flex-direction: row;
-}
-
-.ventas {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-}
-
-.productos {
-  width: 60%;
-  border-radius: 10%;
-}
-
-.detalles {
-  display: flex;
-  justify-content: space-around;
-  font-family: "Inter";
-  font-size: 12px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
 }
 
 footer {
@@ -128,27 +115,6 @@ a {
   color: black;
 }
 
-button {
-  border-radius: 28%;
-  background-color: #d9d9d9;
-  border-bottom-width: unset;
-  width: 64px;
-  height: 30px;
-}
-
-.vermas {
-  font: 13px "Inter", sans-serif;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.compra {
-  display: flex;
-  align-items: stretch;
-  justify-content: space-evenly;
-}
-
 .redes2 {
   display: flex;
   flex-direction: column;
@@ -160,64 +126,15 @@ button {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-around;
-}
-
-.notebook {
-  width: 479px;
-  height: 241px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.precio {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 10px;
-  font-family: "Alatsi";
-  font-size: 24px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-}
-
-.detalles2 {
-  display: flex;
-  font-family: "Abel";
-  font-size: 12px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  flex-wrap: wrap;
-  flex-direction: column;
-}
-
-.button {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  gap: 25px;
-  width: 123px;
-  height: 40px;
+  justify-content: space-between;
 }
 
 .carrito {
   display: flex;
   justify-content: center;
   align-items: baseline;
-}
-
-.main {
-  display: flex;
   flex-direction: column;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-  align-content: space-around;
-  align-items: center;
-  gap: 15px;
+  gap: 10px;
 }
 
 .macbook {
@@ -236,25 +153,20 @@ button {
 }
 
 .detail-boton {
-  border-radius: 15px;
+  border-top-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color: transparent;
   width: 123px;
+  border-left-color: transparent;
   height: 40px;
-  text-align: center;
-  font: 21px "Inter", sans-serif;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  font-family: "Inter";
+  font-size: large;
+  border-radius: 15px;
+  background-color: #d9d9d9;
 }
-
 li {
   font-family: "Abel";
 }
-
-.carrito {
-  flex-direction: column;
-  gap: 10px;
-}
-
 .carrito2 {
   display: flex;
   gap: 28px;
@@ -268,11 +180,6 @@ li {
   align-items: baseline;
 }
 
-.pc-cel {
-  width: 180px;
-  height: 80px;
-  border-radius: 10%;
-}
 .total {
   flex-direction: column;
   width: 467px;
@@ -294,6 +201,17 @@ li {
 
 .boton-compra {
   display: flex;
+  width: 70px;
+  height: 30px;
+}
+.boton-compra button {
+  border-top-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+  border-left-color: transparent;
+  border-radius: 6px;
+  align-items: center;
+  justify-content: center;
   width: 70px;
   height: 30px;
 }
@@ -339,17 +257,17 @@ form {
   align-items: center;
   gap: 40px;
 }
-.register{
-    display: flex;
-    flex-direction: column;
-    background-color: var(--mulledwine);
-    border-radius: 8%;
-    width: 350px;
-    height: 450px;
-    justify-content: space-around;
-    align-items: center;
+.register {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--mulledwine);
+  border-radius: 8%;
+  width: 350px;
+  height: 450px;
+  justify-content: space-around;
+  align-items: center;
 }
-.register p{
+.register p {
   font-family: "Londrina Solid";
   font-size: 32px;
 }
