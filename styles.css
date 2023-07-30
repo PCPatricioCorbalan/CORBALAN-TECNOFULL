@@ -54,7 +54,7 @@ main {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-evenly;
+  justify-content: space-around;
   gap: 5px;
 }
 
@@ -129,14 +129,6 @@ a {
   justify-content: space-between;
 }
 
-.carrito {
-  display: flex;
-  justify-content: center;
-  align-items: baseline;
-  flex-direction: column;
-  gap: 10px;
-}
-
 .macbook {
   gap: 10px;
   display: flex;
@@ -167,22 +159,9 @@ a {
 li {
   font-family: "Abel";
 }
-.carrito2 {
-  display: flex;
-  gap: 28px;
-}
-.carrito3 {
-  display: flex;
-  flex-direction: column;
-  font-family: "Inter";
-  font-size: 16px;
-  justify-content: space-around;
-  align-items: baseline;
-}
-
 .total {
   flex-direction: column;
-  width: 467px;
+  width: -webkit-fill-available;
   height: 36px;
 }
 .subtotal {
@@ -199,26 +178,9 @@ li {
   font-size: 26px;
 }
 
-.boton-compra {
-  display: flex;
-  width: 70px;
-  height: 30px;
-}
-.boton-compra button {
-  border-top-color: transparent;
-  border-right-color: transparent;
-  border-bottom-color: transparent;
-  border-left-color: transparent;
-  border-radius: 6px;
-  align-items: center;
-  justify-content: center;
-  width: 70px;
-  height: 30px;
-}
-
 .finalizar {
   display: flex;
-  width: 460px;
+  width: -webkit-fill-available;
   height: 200px;
   justify-content: center;
   align-items: center;
@@ -270,4 +232,35 @@ form {
 .register p {
   font-family: "Londrina Solid";
   font-size: 32px;
+}
+.articulos-carrito {
+  display: flex;
+  flex-direction: row;
+  gap: 19px;
+  flex-wrap: wrap;
+}
+.articulos-carrito div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  flex-wrap: wrap;
+  font-family: "Inter";
+  font-size: 14px;
+}
+select {
+  background-color: #d9d9d9;
+  border-top-color: transparent;
+  border-right-color: transparent;
+  border-left-color: transparent;
+  border-bottom-color: transparent;
+  border-radius: 6px;
+}
+
+.main3 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 5px;
 }
